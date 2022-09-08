@@ -148,11 +148,11 @@
 <td align="center"><strong>박래호</strong></td>
 </tr>
 <tr>
-<td align="center"><b>Backend</b></td>
-<td align="center"><b>Frontend</b></td>
-<td align="center"><b>Backend</b></td>
-<td align="center"><b>Backend</b></td>
-<td align="center"><b>Backend</b></td>
+<td align="center"><b>팀장<br><br>게시판<br>로그인<br>회원가입</b></td>
+<td align="center"><b>팀원<br><br>게시판<br>마이페이지<br>댓글</b></td>
+<td align="center"><b>팀원<br><br>지도API<br>검색구현<br>추천 서비스 기능</b></td>
+<td align="center"><b>팀원<br><br>크롤링<br>게시판<br>파일 업로드</b></td>
+<td align="center"><b><b>팀원<br><br>크롤링<br>게시판<br>문서 작성 및 PPT</b></td>
 </tr>
 
 <tr>
