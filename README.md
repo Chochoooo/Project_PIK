@@ -35,10 +35,10 @@
 <tr>
 <td>사용언어</td>
 <td>
-<img src="[https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)"/>
+!<img src="[https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)"/>
+!<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)"/>
+!<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)"/>
+!<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)"/>
 </td>
 </tr>
 <tr>
@@ -86,10 +86,10 @@
 <br>
 
 ## ⚙ 시스템 아키텍처
-
+![1](https://user-images.githubusercontent.com/108060141/189044110-eec37aad-59af-435b-ad29-05a1265b10fa.png)
 <br>
 
-![1.png](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3%20Read%20Me%20186f7a8532764f838ce3638f582f7d1a/1.png)
+
 
 ## 📌 SW유스케이스
 
