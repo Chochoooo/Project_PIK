@@ -86,28 +86,26 @@
 <br>
 
 ## ⚙ 시스템 아키텍처
-![1](https://user-images.githubusercontent.com/108060141/189044110-eec37aad-59af-435b-ad29-05a1265b10fa.png)
-<br>
-
-
+![서비스](https://user-images.githubusercontent.com/108060141/189050251-8d059199-f26f-491d-a509-dda125406ff7.png)
 
 ## 📌 SW유스케이스
 
 <br>
 
-![3.png](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3%20Read%20Me%20186f7a8532764f838ce3638f582f7d1a/3.png)
+![SW유스케이스](https://user-images.githubusercontent.com/108060141/189050230-83a05f80-5b65-46b4-8ec1-be8e14d3bf6c.png)
 
 ## 📌 서비스 흐름도
 
 <br>
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3%20Read%20Me%20186f7a8532764f838ce3638f582f7d1a/Untitled.png)
+![서비스흐름도](https://user-images.githubusercontent.com/108060141/189050256-26642275-5436-4eef-a75b-9503b26c0139.png)
+
 
 ## 📌 ER다이어그램
 
 <br>
 
-![4.png](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3%20Read%20Me%20186f7a8532764f838ce3638f582f7d1a/4.png)
+![ER다이어](https://user-images.githubusercontent.com/108060141/189050217-7c812191-f670-43c7-b641-132ca46347b8.png)
 
 ## 🖥 화면 구성
 
@@ -115,25 +113,25 @@
 
 <br>
 
-![5.png](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3%20Read%20Me%20186f7a8532764f838ce3638f582f7d1a/5.png)
+![메인API](https://user-images.githubusercontent.com/108060141/189050247-ca1024dc-c0ce-4548-8d48-84faea44c3d3.png)
 
 ### 맥주 리뷰 게시판(베스트 리뷰)
 
 <br>
 
-![6.png](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3%20Read%20Me%20186f7a8532764f838ce3638f582f7d1a/6.png)
+![맥주리뷰](https://user-images.githubusercontent.com/108060141/189050240-7cc17932-b32d-4e6b-9758-b7e3608b0637.png)
 
 ### 맥주 추천/맥주 검색
 
 <br>
 
-![7.png](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3%20Read%20Me%20186f7a8532764f838ce3638f582f7d1a/7.png)
+![맥주추천](https://user-images.githubusercontent.com/108060141/189050245-cf509b88-feeb-43f3-9821-e49c604c971b.png)
 
 <br>
 
 ### 공지사항/마이페이지
 
-![8.png](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3%20Read%20Me%20186f7a8532764f838ce3638f582f7d1a/8.png)
+![공지](https://user-images.githubusercontent.com/108060141/189050236-3606c248-d427-42fd-9815-5817b09564a6.png)
 
 ## 👨‍👩‍👦‍👦 팀원 역할
 
@@ -166,7 +164,7 @@
 <td align="center"><a href="[https://github.com/자신의username작성해주세요](https://github.com/%EC%9E%90%EC%8B%A0%EC%9D%98username%EC%9E%91%EC%84%B1%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)" target='_blank'>github</a></td>
 <td align="center"><a href="[https://github.com/자신의username작성해주세요](https://github.com/%EC%9E%90%EC%8B%A0%EC%9D%98username%EC%9E%91%EC%84%B1%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)" target='_blank'>github</a></td>
 <td align="center"><a href="[https://github.com/자신의username작성해주세요](https://github.com/%EC%9E%90%EC%8B%A0%EC%9D%98username%EC%9E%91%EC%84%B1%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)" target='_blank'>github</a></td>
-<td align="center"><a href="[https://github.com/자신의username작성해주세요](https://github.com/%EC%9E%90%EC%8B%A0%EC%9D%98username%EC%9E%91%EC%84%B1%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)" target='_blank'>github</a></td>
+<td align="center"><a href="[https://github.com/Chochoooo](https://github.com/%EC%9E%90%EC%8B%A0%EC%9D%98username%EC%9E%91%EC%84%B1%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)" target='_blank'>github</a></td>
 
 </tr>
 </table>
