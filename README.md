@@ -134,11 +134,11 @@
 
 <table>
 <tr>
-<td align="center"><img src="[https://item.kakaocdn.net/do/fd49574de6581aa2a91d82ff6adb6c0115b3f4e3c2033bfd702a321ec6eda72c](https://item.kakaocdn.net/do/fd49574de6581aa2a91d82ff6adb6c0115b3f4e3c2033bfd702a321ec6eda72c)" width="100" height="100"/></td>
-<td align="center"><img src="[https://mb.ntdtv.kr/assets/uploads/2019/01/Screen-Shot-2019-01-08-at-4.31.55-PM-e1546932545978.png](https://mb.ntdtv.kr/assets/uploads/2019/01/Screen-Shot-2019-01-08-at-4.31.55-PM-e1546932545978.png)" width="100" height="100"/></td>
-<td align="center"><img src="[https://mblogthumb-phinf.pstatic.net/20160127_177/krazymouse_1453865104404DjQIi_PNG/īī��������_���̾�.png?type=w2](https://mblogthumb-phinf.pstatic.net/20160127_177/krazymouse_1453865104404DjQIi_PNG/%C4%AB%C4%AB%BF%C0%C7%C1%B7%BB%C1%EE_%B6%F3%C0%CC%BE%F0.png?type=w2)" width="100" height="100"/></td>
-<td align="center"><img src="[https://i.pinimg.com/236x/ed/bb/53/edbb53d4f6dd710431c1140551404af9.jpg](https://i.pinimg.com/236x/ed/bb/53/edbb53d4f6dd710431c1140551404af9.jpg)" width="100" height="100"/></td>
-<td align="center"><img src="[https://pbs.twimg.com/media/B-n6uPYUUAAZSUx.png](https://pbs.twimg.com/media/B-n6uPYUUAAZSUx.png)" width="100" height="100"/></td>
+<td align="center"><img src="https://user-images.githubusercontent.com/108060141/189051723-60d04faa-1812-4bba-8187-dbccb49da370.png" width="100" height="100"/></td>
+<td align="center"><img src="https://user-images.githubusercontent.com/108060141/189051723-60d04faa-1812-4bba-8187-dbccb49da370.png" width="100" height="100"/></td>
+<td align="center"><img src="https://user-images.githubusercontent.com/108060141/189051723-60d04faa-1812-4bba-8187-dbccb49da370.png" width="100" height="100"/></td>
+<td align="center"><img src="https://user-images.githubusercontent.com/108060141/189051723-60d04faa-1812-4bba-8187-dbccb49da370.png" width="100" height="100"/></td>
+<td align="center"><img src="https://user-images.githubusercontent.com/108060141/189051723-60d04faa-1812-4bba-8187-dbccb49da370.png" width="100" height="100"/></td>
 </tr>
 <tr>
 <td align="center"><strong>박의민</strong></td>
@@ -161,7 +161,7 @@
 <td align="center"><a href="[https://github.com/자신의username작성해주세요](https://github.com/%EC%9E%90%EC%8B%A0%EC%9D%98username%EC%9E%91%EC%84%B1%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)" target='_blank'>github</a></td>
 <td align="center"><a href="[https://github.com/자신의username작성해주세요](https://github.com/%EC%9E%90%EC%8B%A0%EC%9D%98username%EC%9E%91%EC%84%B1%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)" target='_blank'>github</a></td>
 <td align="center"><a href="[https://github.com/자신의username작성해주세요](https://github.com/%EC%9E%90%EC%8B%A0%EC%9D%98username%EC%9E%91%EC%84%B1%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)" target='_blank'>github</a></td>
-<td align="center"><a href="[https://github.com/Chochoooo](https://github.com/%EC%9E%90%EC%8B%A0%EC%9D%98username%EC%9E%91%EC%84%B1%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)" target='_blank'>github</a></td>
+<td align="center"><a href="https://github.com/Chochoooo" target='_blank'>github</a></td>
 
 </tr>
 </table>
